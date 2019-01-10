@@ -1,0 +1,118 @@
+{
+    "about": "",
+    "addadmin": {
+        "c11a72fdac9ce0d23105ddb27d1f43a5a": true
+    },
+    "addbanmode": {},
+    "addbot": {
+        "c0ff6052d6145e392794f2064d59ab513": true,
+        "c3e43f052a0e9eb204a99dd152467a728": true
+    },
+    "addfriend": {},
+    "addowner": {},
+    "addseler": {},
+    "addtalkban": {},
+    "addwl": {},
+    "admin": {
+        "u280370feb90625adcbfe5143b4149960": true,
+        "u33c719410474ded349dcd20da74155c0": true,
+        "u380c5fd294a2882a0c4249c95405e442": true,
+        "u52ff33fa4b76524fa160e5a6eba9bbed": true,
+        "u53cf86d12952b42fcdf602f228bc4e65": true,
+        "u56396c39575136b4c7b481a791a7f356": true,
+        "u57ce8ded006a9421866c01ce68cf1479": true,
+        "u8ffd7537b35e738d2bb173d3797eb14b": true,
+        "u9473ddbf4230c8fc1781664b953bd250": true,
+        "ua02867a697717d97ced12db91e49e977": true,
+        "ua367a57d6979edc99d872ed6e6cbd878": true,
+        "uac60b224fb8665c54d434d27de3d8788": true,
+        "ub7b4346add944e4aa0893f8488e64587": true,
+        "ue643c8585ee41a61066557ee19f407cc": true,
+        "ufc967c009605ba83a0ff2d07fd0d66f1": true,
+        "ufd0157cd63654f2825d41725492906e1": true
+    },
+    "autoadd": true,
+    "autocancel": {},
+    "autokick": {
+        "c11a72fdac9ce0d23105ddb27d1f43a5a": true,
+        "c39e3d66f91f712c1201eb80d9df9a515": true
+    },
+    "autolike": true,
+    "banlist": {
+        "uee1fdf2a4f9ad0c3038d60d076588756": true
+    },
+    "bname": "Alka1",
+    "botku": {
+        "u0b820bacc0c4645501894a7ab10bf335": true,
+        "u3330c2d73798cc50c8a6d7bdca277d69": true,
+        "u33c719410474ded349dcd20da74155c0": true,
+        "u370cde0437869bffb954b778420ff3ac": true,
+        "u380c5fd294a2882a0c4249c95405e442": true,
+        "u433f304a9cac6a8e428451f6c2bc8e05": true,
+        "u5114761c9cd22567b79d350a927a48e7": true,
+        "u52ff33fa4b76524fa160e5a6eba9bbed": true,
+        "u714b9120edf0b9dcbd8b0e98afdaf2c4": true,
+        "u737c4cd71430ab5a151e3002b947ac5c": true,
+        "u77f69ab220e23739a180dfac422d7c47": true,
+        "u7ecb10670b7e3ede161f7497963302b0": true,
+        "u8401ca47510f3c9982fae13e25212a3f": true,
+        "u938ce5ae9f33cc3cda4a7398bc8c8679": true,
+        "ua110a2531fa6d9877916658407fa0373": true,
+        "uc6e111a0537433787e6143d82279a5b1": true,
+        "ud601812a2fe1a487e8dc81e66723b03b": true,
+        "uef205a3a19fca1ef7473ffc8d3b03b10": true,
+        "uf5c6725a5957444b38787a7179784800": true,
+        "ufd0157cd63654f2825d41725492906e1": true
+    },
+    "bteam": "Alka",
+    "comment": "",
+    "contact": false,
+    "cpg": {},
+    "cpp1": {},
+    "cpp2": {},
+    "cpp3": {},
+    "deladmin": {},
+    "delbanmode": {},
+    "delbot": {},
+    "delowner": {},
+    "delseler": {},
+    "deltalkban": {},
+    "delwl": {},
+    "gettl": {},
+    "gift": {},
+    "gift2": {},
+    "gift2jumlah": 50,
+    "like": 1,
+    "lockname": {
+        "c11a72fdac9ce0d23105ddb27d1f43a5a": "ROOM EVENT MINI Cs2 ",
+        "c39e3d66f91f712c1201eb80d9df9a515": "\ud83d\udd30EVENT BEZDAY ROOM\ud83d\udd30"
+    },
+    "lockpict": {},
+    "lockqr": {
+        "c11a72fdac9ce0d23105ddb27d1f43a5a": true,
+        "c39e3d66f91f712c1201eb80d9df9a515": true
+    },
+    "message": "",
+    "owner": {
+        "uc796c5f7c2558d04bf32dfc4b214eb87": true,
+        "u32492d67b4d497030732feb690c78687": true,
+        "uf7801e5f56e4bdd6f9aba5cc5c7a0313": true
+    },
+    "pjoin": {
+        "c12e654235b35dd7d0ab3aa8533a97346": true,
+        "caf6a34b71284e110824fcc9c30dd6733": true
+    },
+    "protect": {
+        "c11a72fdac9ce0d23105ddb27d1f43a5a": true,
+        "c12e654235b35dd7d0ab3aa8533a97346": true,
+        "c39e3d66f91f712c1201eb80d9df9a515": true,
+        "caf6a34b71284e110824fcc9c30dd6733": true
+    },
+    "rname": "alka1",
+    "rteam": "alka",
+    "seler": {},
+    "talkban": {},
+    "undang": {},
+    "wl": {},
+    "wordban": {}
+}
